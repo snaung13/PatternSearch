@@ -7,7 +7,6 @@ find_first - Find and return the index of the first location in the string where
 find_all - Find and return a list of all of the indices where the pattern occurs in the string
 call_brute - Call the find functions of brute force algorithm
 time_brute - Time the find functions of brute force algorithm
-
 """
 
 import timeit
